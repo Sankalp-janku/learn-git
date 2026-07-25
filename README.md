@@ -1,2 +1,2 @@
 # learn-git
-leaning a github , hii develoer,this is demo for git&amp;github class
+leaning a github , hii develoer,this is demo for git&amp;github class..
